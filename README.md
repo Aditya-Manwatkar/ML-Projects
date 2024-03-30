@@ -15,14 +15,16 @@ This repository aims to provide clear and concise implementations of essential m
 7. **Support Vector Machines (SVM)**: Master the art of separating data with hyperplanes.
 8. **Naive Bayes**: Get hands-on experience with probabilistic classifiers.
 9. **K-Means Clustering**: Uncover hidden patterns in your data.
+10. **Hierarchical Clustering**
+11. **Apriori Algorithm**: used for market basket analysis.
 
 ## Datasets
-We've collected a set of small, easy-to-understand datasets in the `data` directory. These datasets cover various domains, including housing prices, iris flowers, and customer churn. Use them to practice and experiment with the algorithms.
+We've collected a set of small, easy-to-understand datasets in the `Data` directory. These datasets cover various domains, including housing prices, iris flowers, and customer churn. Use them to practice and experiment with the algorithms.
 
 ## Usage
 1. Clone this repository: `git clone https://github.com/Aditya-Manwatkar/ML-Projects.git`
 2. Install dependencies (if any) mentioned in the README.
-3. Explore the Jupyter notebooks in the `notebooks` folder to learn, experiment, and apply the algorithms.
+3. Explore the Jupyter notebooks in the `Notebooks (code)` folder to learn, experiment, and apply the algorithms.
 
 ## Contributions
 Contributions are welcome! If you've discovered a bug, want to add a new algorithm, or improve existing code, feel free to submit a pull request.
